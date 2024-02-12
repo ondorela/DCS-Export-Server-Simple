@@ -26,3 +26,10 @@ C:\Users\frank\Documents\GitHub\DCS-Export-Server-Simple\TCP-Server Console\obj\
 C:\Users\frank\Documents\GitHub\DCS-Export-Server-Simple\TCP-Server Console\obj\Debug\TCP-Server Console.csproj.CoreCompileInputs.cache
 C:\Users\frank\Documents\GitHub\DCS-Export-Server-Simple\TCP-Server Console\obj\Debug\TCP-Server Console.exe
 C:\Users\frank\Documents\GitHub\DCS-Export-Server-Simple\TCP-Server Console\obj\Debug\TCP-Server Console.pdb
+F:\devMadFS\DCS-Export-Server-Simple\TCP-Server Console\bin\Debug\TCP-Server Console.exe.config
+F:\devMadFS\DCS-Export-Server-Simple\TCP-Server Console\bin\Debug\TCP-Server Console.exe
+F:\devMadFS\DCS-Export-Server-Simple\TCP-Server Console\bin\Debug\TCP-Server Console.pdb
+F:\devMadFS\DCS-Export-Server-Simple\TCP-Server Console\obj\Debug\TCP-Server Console.csproj.AssemblyReference.cache
+F:\devMadFS\DCS-Export-Server-Simple\TCP-Server Console\obj\Debug\TCP-Server Console.csproj.CoreCompileInputs.cache
+F:\devMadFS\DCS-Export-Server-Simple\TCP-Server Console\obj\Debug\TCP-Server Console.exe
+F:\devMadFS\DCS-Export-Server-Simple\TCP-Server Console\obj\Debug\TCP-Server Console.pdb
